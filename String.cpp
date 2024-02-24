@@ -5,6 +5,7 @@
 using namespace std;
 
 int main() {
+    
     string input, ss, result;
     cin >> input;
     if (input.size() <= 100)
