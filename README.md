@@ -1,3 +1,3 @@
 # Array
-# all array
+# sorting array
 
