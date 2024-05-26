@@ -2,7 +2,7 @@
 using namespace std;
 
 int main()
-{  
+{   
     int arSize;
 
     cout<<"Provide number of element of Array: ";
